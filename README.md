@@ -7,7 +7,7 @@ Esta é uma solução para o [Product preview card component](https://www.fronte
 
 ### Screenshot
 
-![Screenshot](https://github.com/1fernandocosta/product-preview-card-component/main/blob/main/src/images/screenshot.jpg)
+![Screenshot](https://github.com/1fernandocosta/product-preview-card-component/blob/main/src/images/screenshot.jpg)
 
 ### Links
 
