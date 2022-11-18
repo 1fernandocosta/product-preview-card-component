@@ -30,6 +30,7 @@ body {
     ---Very-dark-blue: hsl(158, 38%, 23%);
     ---Dark-grayish-blue: hsl(228, 12%, 48%);
     ---White: hsl(0, 0%, 100%);
+    ---color-h1: hsl(210, 6%, 14%);
 }
 
 .container {
@@ -71,7 +72,7 @@ body {
     font-size: 32px;
     line-height: 32px;
     margin-bottom: 22px;
-    color: var(---Very-dark-blue);
+    color: var(---color-h1);
 }
 
 .content p {
